@@ -1,4 +1,4 @@
-👋 Hi, I’m Bayan Alshaer
+👋 Hi, I’m Byan Alshaer
 
 💻 I’m a Data Analyst passionate about turning raw data into meaningful insights.
 
