@@ -1,29 +1,43 @@
-👋 Hi, I’m Byan Alshaer
+Hi, I'm Byan Alshaer 👋
 
-💻 I’m a Data Analyst passionate about turning raw data into meaningful insights.
+💻 Software Quality Assurance Engineer with 7+ years of experience in software testing, API validation, and backend systems. I also have hands-on experience in Python backend development using FastAPI and a growing passion for data analysis.
 
-🔍 I’m interested in:
-- Data analysis and visualization
-- Web scraping and data extraction
-- Data cleaning and transformation using Python
+🔍 I'm interested in
 
-🌱 I’m currently learning:
-- Python for Data Analysis (pandas, NumPy)
-- SQL for data querying and databases
-- Data visualization techniques
+- Software Quality Assurance & Test Automation
+- Backend Development with Python & FastAPI
+- API Testing and System Validation
+- Data Analysis & Data Visualization
+- Process Improvement and Software Quality
 
-🤝 I’m looking to collaborate on:
-- Data analysis projects
-- ETL pipelines and data processing workflows
-- Real-world datasets and insights projects
+🌱 I'm currently learning
 
-📊 Tools & Technologies:
-- Python (Pandas, NumPy)
-- BeautifulSoup (Web Scraping)
-- SQLite / SQL
-- Excel for data analysis
+- Advanced Data Analysis with Python (Pandas, NumPy)
+- SQL and Database Optimization
+- Data Visualization (Power BI & Matplotlib)
+- Test Automation and CI/CD Best Practices
 
-📫 How to reach me:
-Email: bayanhsh7@gmail.com
+🤝 I'm looking to collaborate on
 
-🚀 I enjoy working with data to discover patterns, solve problems, and support better decision-making.
+- Python Backend Projects
+- QA Automation & API Testing
+- Open Source Python Projects
+- Data Analysis Projects with Real-World Datasets
+
+🛠️ Technologies & Tools
+
+- Python
+- FastAPI
+- REST APIs
+- SQL (SQLite, PostgreSQL)
+- Pandas & NumPy
+- Git & GitHub
+- Postman
+- JIRA
+- Excel
+
+📫 Reach me
+
+📧 Email: "bayanhsh7@gmail.com" (mailto:bayanhsh7@gmail.com)
+
+🚀 I enjoy building reliable software, improving product quality, solving technical problems, and using data to drive better decisions. I'm always eager to learn new technologies and collaborate with teams that value continuous improvement.
